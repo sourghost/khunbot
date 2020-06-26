@@ -65,5 +65,5 @@ async def clear(ctx,amount=10):
 @bot.command(aliases=["purgeall"])
 async def clearall(ctx,amount=all):
   await ctx.channel.purge()
-
-bot.run("Njk3NTIyMzk5MDU0MjY2Mzc5.Xo4gaA.9EGUtGXUrb_slzEZBHZgzbkJgBI")
+  
+bot.run("Njk3NTIyMzk5MDU0MjY2Mzc5.XvZJDw.eu5oqm_1I9GH5mAEr4VSJe2PJiU")
